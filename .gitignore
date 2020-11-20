@@ -1,0 +1,5 @@
+config.py
+db.sqlite
+venv/
+.env
+__pycache__
